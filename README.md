@@ -1,28 +1,40 @@
-# BankingSystemProject
-A lightweight console app simulating basic Algerian banking operations
+# 🏦 Algerian National Bank Simulator
 
-Core Features:
+![C++](https://img.shields.io/badge/C++-17-blue) 
+![License](https://img.shields.io/badge/License-MIT-green) 
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
-✅ Client Management
+A secure C++ console application simulating Algeria's national banking operations with CCP account management.
 
-Add, delete, and modify client accounts
+## 🌟 Featured Screenshots
 
-Store client details (name, CCP number, phone, balance, sign-up date)
+| Login System | Main Menu |
+|-------------|----------|
+| ![Login](screenshots/login.png) | ![Main Menu](screenshots/main_menu.png) |
 
-✅ User Authentication & Permissions
+| User Management | Transactions |
+|----------------|--------------|
+| ![Users](screenshots/user_management.png) | ![Transactions](screenshots/transactions.png) |
 
-Secure login system for bank employees
+## 🔥 Key Features
 
-Role-based access control (admin vs. limited staff permissions)
+- **Authentic Algerian Banking**
+  - CCP number validation
+  - Dinar (DZD) currency handling
+  - BNA-inspired interface
 
-✅ Transactions
+- **Multi-Level Security**
+  - Admin (Full access)
+  - Staff (Limited permissions)
+  - Encrypted credential storage
 
-Deposit and withdraw funds
+- **Core Operations**
+  - Client account management
+  - Deposit/Withdrawal processing
+  - Balance tracking
 
-Balance tracking across all accounts
-
-✅ Data Persistence
-
-Stores client and user data in text files (Clients.txt, Users.txt)
-
-No database required (simple file-based storage)
+## 🚀 Quick Start
+## Usage
+- Use the default admin account (Username: Admin, Password: 1111, permission: -1(full access to all features of the app))
+- Follow the on-screen menus to navigate through the system
+- All data is saved in text files (`Clients.txt` and `Users.txt`)
