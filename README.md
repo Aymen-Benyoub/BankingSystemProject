@@ -10,11 +10,11 @@ A secure C++ console application simulating Algeria's national banking operation
 
 | Login System | Main Menu |
 |-------------|----------|
-| ![Login](screenshots/login.png) | ![Main Menu](screenshots/main_menu.png) |
+| ![Login](screenshots/Login.png) | ![Main Menu](screenshots/Menu.png) |
 
 | User Management | Transactions |
 |----------------|--------------|
-| ![Users](screenshots/user_management.png) | ![Transactions](screenshots/transactions.png) |
+| ![Users](screenshots/Users.png) | ![Transactions](screenshots/Transactions.png) |
 
 ## 🔥 Key Features
 
