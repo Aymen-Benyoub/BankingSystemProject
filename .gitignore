@@ -1,0 +1,19 @@
+# Compiled executables
+*.exe
+*.pdb
+*.ilk
+*.obj
+
+# Visual Studio files
+.vs/
+x64/
+Debug/
+Release/
+*.sln
+*.vcxproj*
+*.user
+*.filters
+
+# Data files
+Clients.txt
+Users.txt
